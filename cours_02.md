@@ -2,7 +2,7 @@
 ## Présentation des liens
 
 ### https://www.designspiration.com
-Alors voici mon premier lien, j'ai choici ce lien parce que c'est un site un peu semblable à __Pinterest__, mais beaucoup de divers choix de conception d'images qui peut donner de l'inspiration! 
+Alors voici mon premier lien, j'ai choici ce lien parce que c'est un site un peu semblable à __Pinterest__, mais beaucoup de divers choix de conception d'images qui peut donner de l'inspiration! Vraiment plein de choix intéressants!!
 
 
 ### Lien 2 

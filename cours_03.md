@@ -1,6 +1,6 @@
 # Cours 3
 ## Décrire 5 emplois du domaine du multimédia
-Choisissez des emplois qui pourraient vous intéresser. 
+Voici 5 emplois qui pourrait m'intéresser.
 
 ### Emploi 1 - Identification
 Écrire 4 à 5 lignes. Parler des tâches reliées à l'emploi. Expliquer où ces personnes travaillent. Décrire les qualités requises pour pratiquer ce métier. Un point qui vous intéresse dans ce métier. Un point qui rend ce métier moins intéressant pour vous.  

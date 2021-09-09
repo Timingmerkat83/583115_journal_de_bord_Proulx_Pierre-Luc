@@ -14,8 +14,8 @@ J'ai choici ce troisième lien qui est une oeuvre qui représente une séries d'
 ### https://www.telerama.fr/sortir/entre-temple-zen-et-squat-artistique-l-oeuvre-multimedia-de-korakrit-arunanondchai,130057.php
 Finalement, j'ai choici ce dernier lien parce que cette image représente un temple très chargé niveau art et esthétique, vraiment impressionné de ce chef-d'oeuvre.
 
-### Lien 5 : Exposition à la SAT (Choisir une des installations)
-Expliquer pourquoi vous avez choisi cette installation parmis celles présentées. Vous a-t-elle inspiré, choqué, intrigué? En 2 à 3 lignes. 
+### Pierre Zandrowicz & Ferdinand Dervieux (FR) — "What is Left of Reality"
+J'ai beaucoup aimé cette expérience 3D. Très intriguant à mon goût.
 
 ## Publication sur Teams
 Publier un des 4 premiers liens et la raison pour laquelle vous l'avez sélectionné sur le Teams. Votre lien doit être unique! Assurez-vous qu'aucun étudiant n'ait déjà publié le même. 

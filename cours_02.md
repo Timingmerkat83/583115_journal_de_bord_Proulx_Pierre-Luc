@@ -6,7 +6,7 @@ Alors voici mon premier lien, j'ai choici ce lien parce que c'est un site un peu
 
 
 ### https://lienmultimedia.com/?page=guide-index
-J'ai choici ce lien-ci comme 2e choix, car ce site rassemble des centaines de compagnies catégorisées. Comme par exemple, des compagnies de jeux vidéos, de producteurs, de concepteur web, de réalité virtuelle, etc.
+J'ai choici __Guide de l'industrie:: Numérique__ comme 2e choix car ce site rassemble des centaines de compagnies catégorisées, ce but de ce site est comme une sorte de cartographie qui rassemble des entreprises de multimédia de votre secteur. Comme par exemple, des compagnies de jeux vidéos, de producteurs, de concepteur web, de réalité virtuelle, etc.  Plusieurs choix de carrière après le Cégep!!
 
 ### https://iicmontreal.esteri.it/iic_montreal/fr/gli_eventi/calendario/2021/01/opera-multimediale-skin-wildside.html
 J'ai choici ce troisième lien qui est une oeuvre qui représente une séries d'épisodes de l'oeuvre nommé "`SKIN@WILDSIDE`" que je trouve très bien réussi. Je suis passionné du style démontré sur cet oeuvre.

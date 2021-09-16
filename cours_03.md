@@ -16,12 +16,12 @@ Pour ce travail, il faut avoir un assemblage de compétences, savoir travailler 
 Ce que j'aime, c'est la conception du design, j'aime beaucoup inventer un design esthétique comme bon me semble. 
 Ce que j'aime moins... c'est fonctionnement du code, j'ai encore de la misère avec le JavaScript.
 
-### Emploi 3 - Identification
+### Concepteur sonore
 4 à 5 lignes 
 
-### Emploi 4 - Identification
+### Développeur Logiciel
 4 à 5 lignes
 
-### Emploi 5 - Identification
+### Motion designer
 4 à 5 lignes
 

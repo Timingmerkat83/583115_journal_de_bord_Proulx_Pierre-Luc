@@ -30,5 +30,10 @@ J'ai toujours été curieux de ce qu'il ce passait derrière les coulisses d'une
 Ce que j'aime moins, c'est qu'il y a beaucoup de polyvalence, de langage de code à maîtriser et etc. 
 
 ### Motion designer
-4 à 5 lignes
+Finallement, le motion designer. Le motion designer est pour la conception des contenus animés, audiovisuels et interactifs. Dans le fond, c'est l'art d'animer du graphisme. Cela peut concerner de l'animation: de typographie, d'identités visuelles, d'interfaces graphiques, etc.
+Cela ce déroule encore une fois dans un studio.
+Il exige une couple d'années d'expérience en motion design, avoir le sens de l'organisation, maîtrise de Premiere Pro, AfterEffect, et autres plateformes semblables. Il exige aussi de l'autonomie, de la créativité et de la polyvalence.
+Je ne connaissais pas cet emploi avant, mais tout ce qui est montage est intriguant pour moi.
+Par contre, cela demande beaucoup de leadership et de sens de créativité tout cela était fait en équipe. Et le sens du leadership n'est pas vraiment ma tasse de thé.
+
 

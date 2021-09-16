@@ -18,8 +18,8 @@ Ce que j'aime moins... c'est fonctionnement du code, j'ai encore de la misère a
 
 ### Concepteur sonore
 En tant que concepteur d'environnements sonores, il en consistera de concevoir, élaborer, réaliser et produire des extraits sonores et des sons pour accompagner une production. 
-
-Il avoir de l'intérêt pour la musique, le son et les nouvelles technologies; avoir le sens du rhythme; avoir de la curiosité, de l'imagination et de la créativité; coopération; facilité à travailler sous pression.
+Plusieurs types d'endroit s'imposent: Grand studio et TV public, station radio, et beaucoup plus encore... 
+Il avoir de l'intérêt pour la musique, le son et les nouvelles technologies; avoir le sens du rhythme; avoir de la curiosité, de l'imagination et de la créativité; coopération; facilité à travailler sous pression. Et des diplômes dans le milieu audio.
 J'aime beaucoup écouter la musique sur la radio je me suis toujours demandé à quoi cela ressemblerais travailler dans un studio comme ca. Néanmoins, je ne suis pas fou non plus de la polyvalence d'un travail et d'être sous la pression...
 
 ### Développeur Logiciel

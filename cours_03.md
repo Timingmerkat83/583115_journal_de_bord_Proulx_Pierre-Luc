@@ -10,7 +10,8 @@ Je suis une personne beaucoup intéressé à faire du dessin, donc je me disais 
 Par contre, ce métier demande beaucoup de patience, et je n'apprécirais surtout pas s'il y avait un temps limite pour faire une animation.
 
 ### Designer d'interface
-Ce métier consister à concevoir un système d'accès pour tous les éléments tels que les textes, les tableaux et graphiques, les images, les séquences vidéo, le son de même que l'animation 2D.
+Ce métier consister à concevoir un système d'accès pour tous les éléments tels que les textes, les tableaux et graphiques, les images, les séquences vidéo, le son de même que l'animation 2D, les interactions avec les éléments et bien plus encore!
+
 
 ### Emploi 3 - Identification
 4 à 5 lignes 

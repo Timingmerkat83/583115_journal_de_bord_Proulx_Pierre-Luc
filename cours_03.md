@@ -17,7 +17,10 @@ Ce que j'aime, c'est la conception du design, j'aime beaucoup inventer un design
 Ce que j'aime moins... c'est fonctionnement du code, j'ai encore de la misère avec le JavaScript.
 
 ### Concepteur sonore
-4 à 5 lignes 
+En tant que concepteur d'environnements sonores, il en consistera de concevoir, élaborer, réaliser et produire des extraits sonores et des sons pour accompagner une production. 
+
+Il avoir de l'intérêt pour la musique, le son et les nouvelles technologies; avoir le sens du rhythme; avoir de la curiosité, de l'imagination et de la créativité; coopération; facilité à travailler sous pression.
+J'aime beaucoup écouter la musique sur la radio je me suis toujours demandé à quoi cela ressemblerais travailler dans un studio comme ca. Néanmoins, je ne suis pas fou non plus de la polyvalence d'un travail et d'être sous la pression...
 
 ### Développeur Logiciel
 4 à 5 lignes

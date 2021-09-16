@@ -11,7 +11,10 @@ Par contre, ce métier demande beaucoup de patience, et je n'apprécirais surtou
 
 ### Designer d'interface
 Ce métier consister à concevoir un système d'accès pour tous les éléments tels que les textes, les tableaux et graphiques, les images, les séquences vidéo, le son de même que l'animation 2D, les interactions avec les éléments et bien plus encore!
-
+Les employées travaillent majoritairement en agence mais aussi en entreprise (studio de design intégré ou start-up).
+Pour ce travail, il faut avoir un assemblage de compétences, savoir travailler en équipe (un des plus importants). Il faut aussi savoir maîtriser de divers outils comme par exemple: Pour le design visuel(Illustrator, Photoshop ); pour le prototypage d'interfaces (Flash, Visual Basic, HTML, etc.); Maquettage Web (bon niveau en HTML 5, CSS 3, JavaScript).
+Ce que j'aime, c'est la conception du design, j'aime beaucoup inventer un design esthétique comme bon me semble. 
+Ce que j'aime moins... c'est fonctionnement du code, j'ai encore de la misère avec le JavaScript.
 
 ### Emploi 3 - Identification
 4 à 5 lignes 

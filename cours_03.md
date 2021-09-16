@@ -7,10 +7,10 @@ Ce métier consiste à l'animation de films d'animations, de jeux vidéos, des p
 Le monde qui font ce travail, est fait par télétravail, mais il en peut dépendre du poste.
 Pour être qualifié à ce travail, il exige un sens artistique et beaucoup de pratique. 
 Je suis une personne beaucoup intéressé à faire du dessin, donc je me disais que l'animation serait bien pour moi.
-Par contre, ce métier demande beaucoup de patience, et je n'apprécirais surtout pas s'il y avait un temps limite pour faire une animation.fsdsdsxcdxcdxsdddscsxsxssdseeee2A	AEAX
+Par contre, ce métier demande beaucoup de patience, et je n'apprécirais surtout pas s'il y avait un temps limite pour faire une animation.
 
-### Emploi 2 - Identification
-4 à 5 lignes
+### Designer d'interface
+Ce métier consister à concevoir un système d'accès pour tous les éléments tels que les textes, les tableaux et graphiques, les images, les séquences vidéo, le son de même que l'animation 2D.
 
 ### Emploi 3 - Identification
 4 à 5 lignes 

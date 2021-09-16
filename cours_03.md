@@ -23,7 +23,11 @@ Il avoir de l'intérêt pour la musique, le son et les nouvelles technologies; a
 J'aime beaucoup écouter la musique sur la radio je me suis toujours demandé à quoi cela ressemblerais travailler dans un studio comme ca. Néanmoins, je ne suis pas fou non plus de la polyvalence d'un travail et d'être sous la pression...
 
 ### Développeur Logiciel
-4 à 5 lignes
+Développeur de logiciel est spécialisé dans la conception et la réalisation de programmes informatiques destinés aux entreprises ou au grand public. 
+Cet emploi ce déroule dans des sociétés disposant d'une DSI (Directeur des Systèmes d'Information).
+Les attentes de ce qu'ils recherchent chez un employé sont: Des connaissances des systèmes d'exploitation (Windows, MacOs, Linux); une bonne maîtrise de la langue anglaise, travail d'équipe; être rigoureux, patient, persévérant et efficace. 
+J'ai toujours été curieux de ce qu'il ce passait derrière les coulisses d'une application, comme un réseau sociau, un site de nouvelles, de magasinage, etc. Et j'aimerais beaucoup en faire parti!
+Ce que j'aime moins, c'est qu'il y a beaucoup de polyvalence, de langage de code à maîtriser et etc. 
 
 ### Motion designer
 4 à 5 lignes

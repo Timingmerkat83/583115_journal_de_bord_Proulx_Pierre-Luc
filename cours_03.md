@@ -2,8 +2,12 @@
 ## Décrire 5 emplois du domaine du multimédia
 Voici 5 emplois qui pourrait m'intéresser.
 
-### Emploi 1 - Identification
-Écrire 4 à 5 lignes. Parler des tâches reliées à l'emploi. Expliquer où ces personnes travaillent. Décrire les qualités requises pour pratiquer ce métier. Un point qui vous intéresse dans ce métier. Un point qui rend ce métier moins intéressant pour vous.  
+### Animateur 2D
+Écrire 4 à 5 lignes. Ce métier consiste à l'animation de films d'animations, de jeux vidéos, des publicités, etc. 
+Le monde qui font ce travail, est fait par télétravail, mais il en peut dépendre du poste.
+Pour être qualifié à ce travail, il exige un sens artistique et beaucoup de pratique. 
+Je suis une personne beaucoup intéressé à faire du dessin, donc je me disais que l'animation serait bien pour moi.
+Par contre, ce métier demande beaucoup de patience, et je n'apprécirais surtout pas s'il y avait un temps limite pour faire une animation.fsdsdsxcdxcdxsdddscsxsxssdseeee2A	AEAX
 
 ### Emploi 2 - Identification
 4 à 5 lignes

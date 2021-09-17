@@ -2,7 +2,7 @@
 ## Plan de présentation
 
 ### Présentation
-Parlez de vous. 
+Mon nom est Pierre-Luc Proulx j'ai 20 ans.
 
 ### Intérêts dans le domaine
 Parlez de vos intérêts en multimédia. 

@@ -5,10 +5,14 @@
 Mon nom est Pierre-Luc Proulx j'ai 20 ans. J'habite à Boisbriand
 
 ### Intérêts dans le domaine
-Parlez de vos intérêts en multimédia. 
+Mes attentes qui pourraient m'intéresser dans ce domaine: 
+-PhotoShop, PremierePro (Montage photo/vidéo)
+-Création de jeux 3D ou 2D (Unity, Godot Engine, etc.)
+-
 
 ### Emplois qui vous intéressent
-Nommez deux emplois.
+
+
 
 ### Identification
 Nommez une entreprise et un artiste auxquels vous vous identifiez et expliquez pourquoi. 

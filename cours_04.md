@@ -2,7 +2,7 @@
 ## Plan de présentation
 
 ### Présentation
-Mon nom est Pierre-Luc Proulx j'ai 20 ans.
+Mon nom est Pierre-Luc Proulx j'ai 20 ans. J'habite à Boisbriand
 
 ### Intérêts dans le domaine
 Parlez de vos intérêts en multimédia. 

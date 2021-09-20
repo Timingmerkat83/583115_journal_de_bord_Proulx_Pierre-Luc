@@ -2,13 +2,14 @@
 ## Plan de présentation
 
 ### Présentation
-Mon nom est Pierre-Luc Proulx j'ai 20 ans. J'habite à Boisbriand
-
+Mon nom est Pierre-Luc Proulx j'ai 20 ans. J'habite à Boisbriand.
+Durant mes temps libre: Gamer, dormir, guitare, Photo-montage/vidéo, roadtrip avec des amis.
 ### Intérêts dans le domaine
 Mes attentes qui pourraient m'intéresser dans ce domaine: 
 -PhotoShop, PremierePro (Montage photo/vidéo)
 -Création de jeux 3D ou 2D (Unity, Godot Engine, etc.)
 -Codage Web Html 5, CSS, JavaScript
+Points bonus car j'aime la technologie.
 ### Emplois qui vous intéressent
 
 

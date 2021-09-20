@@ -8,8 +8,7 @@ Mon nom est Pierre-Luc Proulx j'ai 20 ans. J'habite à Boisbriand
 Mes attentes qui pourraient m'intéresser dans ce domaine: 
 -PhotoShop, PremierePro (Montage photo/vidéo)
 -Création de jeux 3D ou 2D (Unity, Godot Engine, etc.)
-
-
+-Codage Web Html 5, CSS, JavaScript
 ### Emplois qui vous intéressent
 
 

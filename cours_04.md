@@ -11,8 +11,7 @@ Mes attentes qui pourraient m'intéresser dans ce domaine:
 -Codage Web Html 5, CSS, JavaScript
 Points bonus car j'aime la technologie.
 ### Emplois qui vous intéressent
-J'aimerais être programmeur de jeux vidéos, depuis que je suis petit, j'ai toujours adoré jouer aux jeux vidéos,
-
+J'aimerais être programmeur de jeux vidéos, depuis que je suis petit, j'ai toujours adoré jouer aux jeux vidéos. Ou bien sinon comme emploi de rechange, j'aimerais être designer web.
 
 ### Identification
 Nommez une entreprise et un artiste auxquels vous vous identifiez et expliquez pourquoi. 

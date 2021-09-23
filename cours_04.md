@@ -2,7 +2,8 @@
 ## Plan de présentation
 
 ### Présentation
-Mon nom est Pierre-Luc Proulx j'ai 20 ans. J'habite à Boisbriand.
+Mon nom est Pierre-Luc Proulx j'ai 20 ans. J'habite à Boisbriand. Je demeure avec mes parents, j'ai aussi une soeur mais elle ne vit plus parmit nous...
+J'ai deux chats, l'un s'appelle Oreo et l'autre Simba (Ces noms sont basés sur les couleurs des matous).
 Durant mes temps libre: Gamer, dormir, guitare, Photo-montage/vidéo, roadtrip avec des amis.
 ### Intérêts dans le domaine
 Mes attentes qui pourraient m'intéresser dans ce domaine: 

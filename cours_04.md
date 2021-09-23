@@ -11,6 +11,7 @@ Mes attentes qui pourraient m'intéresser dans ce domaine:
 -Création de jeux 3D ou 2D (Unity, Godot Engine, etc.)
 -Codage Web Html 5, CSS, JavaScript
 Points bonus car j'aime la technologie.
+Le cours que j'aime le plus faire en ce moment c'est celui d'aterlier d'illustration avec la license d'__Adobe Photoshop__
 ### Emplois qui vous intéressent
 J'aimerais être programmeur de jeux vidéos, depuis que je suis petit, j'ai toujours adoré jouer aux jeux vidéos. Ou bien sinon comme emploi de rechange, j'aimerais être designer web.
 

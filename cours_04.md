@@ -16,6 +16,10 @@ Ce que j'ai plus hâte de faire,
 ### Emplois qui vous intéressent
 Premièrement, j'aimerais être programmeur de jeux vidéos.  J’ai toujours été curieux de comment est fait un jeu, que ce passe-t-il derrière les coulisses? Ce serait mon choix idéale, même si j’ai zéro expérience dans le langage de code de ce domaine.
 Ce job consiste à majoritairement entrer des codes. Ils utilisent plusieurs langages: C++ et Java.
+Et ainsi, j'aimerais faire un emploi d'animation 2D. Je regarde beaucoup d’animation 2D depuis que je suis jeune. J’ai toujours eu un faible ce genre de contenu. De plus, j’adore dessiné. Donc cela serait mon choix secondaire.
+La plupart du temps, tu passerais ton temps devant une tablette graphique à être productif, comme dessiner une animation d’image par image. Ou faire des animations d’illustrations.
+
+
 
 
 ### Identification

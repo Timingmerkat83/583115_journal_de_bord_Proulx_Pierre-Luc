@@ -19,7 +19,9 @@ Ce job consiste à majoritairement entrer des codes. Ils utilisent plusieurs lan
 
 
 ### Identification
-Tom Fulp (Programmeur), c'est le fondateur du site d'animation NewGrounds
+Tom Fulp. Tom Fulp est un programmeur de jeux. Il est le fondateur d’un site qui permet de partagé des jeux indépendants, des vidéos, des animations, de l’art et de la musique, que ce soit du contenu paisible, vulgaire ou sexuel, intitulé *Newgrounds* lancé en 1995. Il a développé un jeu populaire disponible sur Steam, Xbox et Playstation nommé *Castle Crashers*. Et un autre exemple, *Battle Block Theather*. 
+Je m'identifie à lui, car je trouve qu’il une source d’inspiration, j’aime beaucoup ses jeux très amusants et drôle. C’est ce genre de jeux simple, cartooniste que j’aimerais réalisé plus tard dans le future.
+
 
 ### Dans 5 ans
 Dans 5 ans, il y a plusieurs choix que je peux voir dans mon parcours: Continuer mes études à l'université (en quoi je ne le sais pas encore). 

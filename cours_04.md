@@ -12,11 +12,14 @@ Mes attentes qui pourraient m'intéresser dans ce domaine:
 -Codage Web Html 5, CSS, JavaScript
 Points bonus car j'aime la technologie.
 Le cours que j'aime le plus faire en ce moment c'est celui d'aterlier d'illustration avec la license d'__Adobe Photoshop__
+Ce que j'ai plus hâte de faire, 
 ### Emplois qui vous intéressent
-J'aimerais être programmeur de jeux vidéos, depuis que je suis petit, j'ai toujours adoré jouer aux jeux vidéos. Ou bien sinon comme emploi de rechange, j'aimerais être designer web.
+Premièrement, j'aimerais être programmeur de jeux vidéos.  J’ai toujours été curieux de comment est fait un jeu, que ce passe-t-il derrière les coulisses? Ce serait mon choix idéale, même si j’ai zéro expérience dans le langage de code de ce domaine.
+Ce job consiste à majoritairement entrer des codes. Ils utilisent plusieurs langages: C++ et Java.
+
 
 ### Identification
-Nommez une entreprise et un artiste auxquels vous vous identifiez et expliquez pourquoi. 
+Tom Fulp (Programmeur), c'est le fondateur du site d'animation NewGrounds
 
 ### Dans 5 ans
 Dans 5 ans, il y a plusieurs choix que je peux voir dans mon parcours: Continuer mes études à l'université (en quoi je ne le sais pas encore). 

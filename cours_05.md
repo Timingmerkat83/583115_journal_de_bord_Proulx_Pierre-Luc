@@ -12,7 +12,7 @@ Ensuite, j'ai plusieurs points faible que j'aimerais améliorer mais je vais en 
 2. Ma présentation a été fait à la dernière minute... Peut être me trouver une façon de gérer mon temps afin d'avoir la capacité de bien faire ma présentation et de la bien structurer.
 
 ### Présentation préférée
-Quelle présentation avez-vous préféré et pourquoi? 
+J'ai une préférence sur la présentation de Isaac
 
 
 

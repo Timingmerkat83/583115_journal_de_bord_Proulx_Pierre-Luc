@@ -12,4 +12,4 @@ Explorer les thèmes dans l'outil de présentation numérique de votre choix. Ch
 #### Outil de présentation:    
 Thème 1 | Thème 2 | Thème 3
 --| -- | --
-Nom du thème  | Nom du thème | Nom du thème 
+Splatoon  | Ace Attorney | Nintendo 

@@ -6,7 +6,8 @@ Durée: 5 à 7 minutes
 Le projet multimédia que j'ai choisi est le jeu vidéo *Splatoon* édité par *Nintendo* sur Wii U et sorti en mai 2015.
 
 ### Carte heuristique
-Joindre la carte heuristique du projet. 
+ ![carte heuristique](https://user-images.githubusercontent.com/24527925/142661174-539447d4-639a-412f-af19-92c9ddce1184.png)
+
 
 ### Technologies
 La télévision, univers intéractif.  

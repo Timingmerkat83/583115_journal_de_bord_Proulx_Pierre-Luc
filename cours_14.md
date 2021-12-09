@@ -17,7 +17,7 @@ Afin de connaître les règlements du jeu, le joeur peut trouver un code bar à 
 
 
 ### Technologies
-Décrivez quelles seront les technologies utilisées dans votre projet. 
+- Décrivez quelles seront les technologies utilisées dans votre projet. 
 
 ### Étapes de réalisation
 Quelles sont les étapes nécessaires à la réalisation de votre projet? Essayez de placer ces étapes dans un échéancier. 

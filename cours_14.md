@@ -3,8 +3,8 @@
 Durée: 8 à 10 minutes
 
 ### Résumer votre projet en une phrase
-Résumer le projet en une phrase concise.   
-
+Viking Échelle est un jeux hybride dont est utilisé des codes Qr à travers leur téléphone afin de pouvoir avancer son pion dans le jeu de société.
+  
 ### Description du projet 
 Décrivez les grandes lignes de votre projet. 
 

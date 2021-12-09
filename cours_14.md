@@ -17,7 +17,13 @@ Afin de connaître les règlements du jeu, le joeur peut trouver un code bar à 
 
 
 ### Technologies
-- Décrivez quelles seront les technologies utilisées dans votre projet. 
+1. Animation 2D
+2. Gestionnaire du projet
+3. Développeur front-end
+4. Développeur back-end
+5. Programmation
+6. Directeur Artistique
+7. Contrôle de la qualité
 
 ### Étapes de réalisation
 Quelles sont les étapes nécessaires à la réalisation de votre projet? Essayez de placer ces étapes dans un échéancier. 

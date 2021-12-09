@@ -6,7 +6,7 @@ Durée: 8 à 10 minutes
 Viking Échelle est un jeux hybride dont est utilisé des codes Qr à travers leur téléphone afin de pouvoir avancer son pion dans le jeu de société.
   
 ### Description du projet 
-Décrivez les grandes lignes de votre projet. 
+Jeux de société qui ce joue avec une application mobile, un genre jeu avec un réalité augmentée du même style que **Pokémon Go** 
 
 ### Schéma du projet ou scénarimage
 Expliquer le déroulement de votre expérience grâce à un schéma narratif ou à un scénarimage. 

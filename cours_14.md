@@ -10,7 +10,7 @@ Jeux de société qui ce joue avec une application mobile, un genre jeu avec un 
 Le gameplay est pareil comme serpent et échelle, sauf que t'as besoin d'un téléphone
 
 ### Schéma du projet ou scénarimage
-Afin de connaître les règlements du jeu, le joeur peut trouver un code bar à scanner sur le dessous de la boîte. Par la suite, afin de connaître son personnage, chaque pion a un code à scanner comme un Amiibo
+Afin de connaître les règlements du jeu, le joeur peut trouver un code bar à scanner sur le dessous de la boîte. Par la suite, afin de connaître son personnage, chaque pion a un code à scanner comme un Amiibo, le joueur pourra consulter les statistiques de son personnage. Le début de la partie commence donc, une partie peut se jouer de 2 à 4 joueurs.
 
 ### Moodboard
 ![MooodBoard](https://user-images.githubusercontent.com/24527925/145461700-f669a8e5-884c-4053-8d18-33921e5e2de5.png)

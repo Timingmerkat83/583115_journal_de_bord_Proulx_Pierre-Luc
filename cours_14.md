@@ -6,11 +6,11 @@ Durée: 8 à 10 minutes
 Viking Échelle est un jeux hybride dont est utilisé des codes Qr à travers leur téléphone afin de pouvoir avancer son pion dans le jeu de société.
   
 ### Description du projet 
-Jeux de société qui ce joue avec une application mobile, un genre jeu avec un réalité augmentée du même style que *Pokémon Go* et *Harry Potter: Wizards Unite*.
+Jeux de société qui ce joue avec une application mobile, un genre jeu avec un réalité augmentée du même style que **Pokémon Go** et **Harry Potter: Wizards Unite**.
 Le gameplay est pareil comme serpent et échelle, sauf que t'as besoin d'un téléphone
 
 ### Schéma du projet ou scénarimage
-Expliquer le déroulement de votre expérience grâce à un schéma narratif ou à un scénarimage. 
+Afin de connaître les règlements du jeu, le joeur peut trouver un code bar à scanner sur le dessous de la boîte. Par la suite, afin de connaître son personnage, chaque pion a un code à scanner comme un Amiibo
 
 ### Moodboard
 ![MooodBoard](https://user-images.githubusercontent.com/24527925/145461700-f669a8e5-884c-4053-8d18-33921e5e2de5.png)

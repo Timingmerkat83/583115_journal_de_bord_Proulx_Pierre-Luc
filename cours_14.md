@@ -26,4 +26,4 @@ Afin de connaître les règlements du jeu, le joeur peut trouver un code bar à 
 7. Contrôle de la qualité
 
 ### Étapes de réalisation
-Quelles sont les étapes nécessaires à la réalisation de votre projet? Essayez de placer ces étapes dans un échéancier. 
+Nous nous sommes parvenus à trouver des idées à l'aide de notre Brainstorm. 
